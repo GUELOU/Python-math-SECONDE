@@ -1,2 +1,3 @@
-# SECONDE4
-Dépot de fichiers Python pour les élèves de SECONDE4
+# SECONDE
+Dépot de fichiers Python pour les mathématiques destiné aux élèves de SECONDE
+Y.GUELOU
